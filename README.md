@@ -22,4 +22,4 @@
 
 [![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo)](https://github.com/5n0weirdo/github-readme-stats) 
 
-![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo &count_private=true) 
+![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&count_private=true) 
