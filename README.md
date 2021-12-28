@@ -18,4 +18,4 @@
 
 ![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&count_private=true&show_icons=true&theme=dark) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5n0weirdo&repo=github-readme-stats)](https://github.com/5n0weirdo/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5n0weirdo&repo=github-readme-stats)](https://github.com/5n0weirdo/LM-netflix-clone-project)
