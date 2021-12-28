@@ -13,13 +13,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lm-snoweirdo-b314ba228) 
 
 
-[](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
 
-(https://github.com/5n0weirdo/github-readme-stats)
-
-[![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo)](https://github.com/5n0weirdo/github-readme-stats) 
 
 ![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&count_private=true) 
