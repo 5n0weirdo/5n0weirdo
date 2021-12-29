@@ -1,7 +1,6 @@
 <h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-[![badge](https://glitch-image.vercel.app/api?text=Web%20Developer)](https://glitch-image.vercel.app/api?text=Web%Developer)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
 
