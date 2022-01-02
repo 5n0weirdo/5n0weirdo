@@ -1,4 +1,4 @@
-<h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I am Snoweirdo. </h1>
+<h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I am Snoweirdo. </h1>
 <p align='center'>
  <p>I am a Front-End Developer.</p>
 
