@@ -1,6 +1,8 @@
 <h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I am Snoweirdo. </h1>
 <p align='center'>
  <p>I am a Front-End Developer.</p>
+ 
+ ![Metrics](https://metrics.lecoq.io/5n0weirdo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&people=1&introduction=1&pagespeed=1&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Africa%2FJohannesburg)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
