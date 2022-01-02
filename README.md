@@ -77,7 +77,6 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/[5n0weirdo)
 
 
 <br>
