@@ -1,6 +1,6 @@
 <h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I am Snoweirdo. </h1>
 <p align='center'>
- <h1>I am a Front-End Developer.</h1>
+ <p>I am a Front-End Developer.</p>
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
