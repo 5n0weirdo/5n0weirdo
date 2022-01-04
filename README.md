@@ -2,9 +2,6 @@
 <p align='center'>
  <p>I am a Front-End Developer.</p>
  
-<h1>Support:</h1>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -13,6 +10,10 @@
 - 💻 Technologies I use : ReactJs, React-Native, Firebase, Material-UI, Expo-CLI, React-Native CLI. 
 
 
+
+<h1>Support:</h1>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/5n0weirdo_dev)
 
