@@ -3,8 +3,8 @@
 <h1> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
  <p>I am a Front-End Developer.</p>
- 
 
+![Imgur](https://i.imgur.com/9FaOw5y.png) 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 - 🔭 I’m currently working on Cross Platform Mobile Applications and Responsive Web Applications. 
