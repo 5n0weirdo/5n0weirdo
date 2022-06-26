@@ -17,7 +17,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y87FJUT)
 
 <br>
-[![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&count_private=true&show_icons=true&theme=dark) 
+
 <div align="center">
 
 </div>
