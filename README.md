@@ -6,11 +6,13 @@
 
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
+<p align="center">
 - 🔭 I’m currently working on Cross Platform Mobile Applications and Responsive Web Applications. 
 - 💡 I’m currently learning ReactJs and React-Native. 
 - 💻 Technologies I use : ReactJS, React-Native, Firebase, Material-UI, TailwindCSS, Expo-CLI, React-Native CLI. 
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&show_icons=true&theme=radical)
+![5n0weirdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=5n0weirdo&show_icons=true&theme=radical)
 
 <h3>Support:</h3>
 
