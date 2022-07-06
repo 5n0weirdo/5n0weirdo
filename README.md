@@ -20,9 +20,8 @@
 <span style="padding-left:5%">- Ganache</span><br>
 <br>
 ⚡️ Fun facts...<br>
-<span style="padding-left:5%">* I am a problem solver.</span><br>
+<span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
 <span style="padding-left:5%">* Linux is my daily driver.</span><br>
-<span style="padding-left:5%">* I like challenging myself with more advanced concepts.</span><br>
 <span style="padding-left:5%">* I enjoy blockchain development.</span><br>
 <br>
 
