@@ -8,23 +8,6 @@
   </a>
 </p>
 
-
-## 🚀 About Me
-
-👩‍💻 I'm currently working on Web3 Applications.<br>
-🧠 I'm currently learning smart contracts, web3 structure and development.<br>
-👯‍♀️ I'm looking to build or collaborate on a web3 applications using:<br>
-<span style="padding-left:5%">- ViteJS</span><br>
-<span style="padding-left:5%">- ReactJS or React-Native</span><br>
-<span style="padding-left:5%">- Material-UI or TailwindCSS</span><br>
-<span style="padding-left:5%">- Ganache</span><br>
-<br>
-⚡️ Fun facts...<br>
-<span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
-<span style="padding-left:5%">* Linux is my daily driver.</span><br>
-<span style="padding-left:5%">* I enjoy blockchain development.</span><br>
-<br>
-
 <h2>Languages & Tools:</h2>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -47,10 +30,26 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Debian (Statistics)](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=EF2929)&nbsp;
-![ArchLinux (Statistics)](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=ArchLinux&logoColor=276DC3)&nbsp;
 ![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
 <br>
+
+## 🚀 About Me
+
+👩‍💻 I'm currently building a Crypto Payment Web3 Application.<br>
+🧠 I'm focused on developing smart contracts and understanding web3 architecture.<br>
+👯‍♀️ I'm focusing on building web3 applications using:<br>
+<span style="padding-left:5%">- ViteJS</span><br>
+<span style="padding-left:5%">- ReactJS or TailwindCSS</span><br>
+<span style="padding-left:5%">- Ganache</span><br>
+<br>
+⚡️ Fun facts...
+<br>
+<span style="padding-left:5%">* I use Linux on a daily basis.</span><br>
+<span style="padding-left:5%">* I enjoy Blockchain Development.</span><br>
+<span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
+<br>
+
+
 <table><tbody><tr><td valign="top" width="20%">
 <br>
 <div align="center">
