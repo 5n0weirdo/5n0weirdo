@@ -2,15 +2,15 @@
 ![Imgur](https://i.imgur.com/AEFORuT.png)
 <p align='center'>
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-
-## 🚀 About Me
-
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&duration=3000&color=C016D2&center=true&vCenter=true&lines=Blockchain+Developer;Graphic+Designer;Linux+user" />
   </a>
 </p>
+
+
+## 🚀 About Me
+
 👩‍💻 I'm currently working on Web3 Applications.<br>
 🧠 I'm currently learning smart contracts, web3 structure and development.<br>
 👯‍♀️ I'm looking to build or collaborate on a web3 applications using:<br>
