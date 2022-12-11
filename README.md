@@ -1,5 +1,9 @@
 
-![Imgur](https://i.imgur.com/AEFORuT.png)
+<div id="header" align="center">
+  <img src="./5n0weirdo.png" width="100%" />
+</div>
+<br>
+
 <p align='center'>
 
 <p align="center">
@@ -35,17 +39,19 @@
 
 ## 🚀 About Me
 
-👩‍💻 I'm currently building a Crypto Payment Web3 Application.<br>
-🧠 I'm focused on developing smart contracts and understanding web3 architecture.<br>
+👩‍💻 I'm currently building Web3 Apps while creating 3D Animations with Blender 3.0.<br>
+🧠 I'm focused on developing innovative solutions.<br>
 👯‍♀️ I'm focusing on building web3 applications using:<br>
-<span style="padding-left:5%">- ViteJS</span><br>
-<span style="padding-left:5%">- ReactJS or TailwindCSS</span><br>
+<span style="padding-left:5%">- ReactJs</span><br>
+<span style="padding-left:5%">- TailwindCSS</span><br>
+<span style="padding-left:5%">- NextJS</span><br>
 <span style="padding-left:5%">- Ganache</span><br>
 <br>
+
 ⚡️ Fun facts...
 <br>
 <span style="padding-left:5%">* I use Linux on a daily basis.</span><br>
-<span style="padding-left:5%">* I enjoy Blockchain Development.</span><br>
+<span style="padding-left:5%">* I enjoy 3D Animation and Blockchain Development.</span><br>
 <span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
 <br>
 
