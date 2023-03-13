@@ -41,11 +41,12 @@
 
 👩‍💻 I'm currently building Web3 Apps while creating 3D Animations with Blender 3.0.<br>
 🧠 I'm focused on developing innovative solutions.<br>
-👯‍♀️ I'm focusing on building web3 applications using:<br>
+👯‍♀️ I'm focusing on building 3D applications using:<br>
 <span style="padding-left:5%">- ReactJs</span><br>
 <span style="padding-left:5%">- TailwindCSS</span><br>
 <span style="padding-left:5%">- NextJS</span><br>
-<span style="padding-left:5%">- Ganache</span><br>
+<span style="padding-left:5%">- React Three Fiber</span><br>
+<span style="padding-left:5%">- Spline</span><br>
 <br>
 
 ⚡️ Fun facts...
