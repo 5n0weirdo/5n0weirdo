@@ -12,43 +12,6 @@
   </a>
 </p>
 
-<h2>Languages & Tools:</h2>
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=TailwindCSS)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&logoColor=EDD400)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity&logoColor=A8B9CC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=F57900)&nbsp;
-![Heroku (Statistics)](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=75507B)&nbsp;
-![Netlify (Statistics)](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=Netlify&logoColor=276DC3)&nbsp;
-![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp)&nbsp; 
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp; 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Brave (Statistics)](https://img.shields.io/badge/-Brave-05122A?style=flat&logo=Brave&logoColor=FF3300)&nbsp;
-![Firefox (Statistics)](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=Firefox&logoColor=FF3300)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SublimeText (Statistics)](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=SublimeText&logoColor=F57900)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows (Statistics)](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=276DC3)&nbsp;
-<br>
-
-## 🚀 About Me
-
-👩‍💻 I'm currently building Web3 Apps while creating 3D Animations with Blender 3.0.<br>
-🧠 I'm focused on developing innovative solutions.<br>
-👯‍♀️ I'm focusing on building 3D applications using:<br>
-<span style="padding-left:5%">- ReactJs</span><br>
-<span style="padding-left:5%">- TailwindCSS</span><br>
-<span style="padding-left:5%">- NextJS</span><br>
-<span style="padding-left:5%">- React Three Fiber</span><br>
-<span style="padding-left:5%">- Spline</span><br>
-<br>
-
 ⚡️ Fun facts...
 <br>
 <span style="padding-left:5%">* I use Linux on a daily basis.</span><br>
