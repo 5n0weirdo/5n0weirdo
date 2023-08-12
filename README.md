@@ -1,4 +1,3 @@
-<!--START_SECTION:activity-->
 <div id="header" align="center">
   <img src="./5n0weirdo.png" width="100%" />
 </div>
