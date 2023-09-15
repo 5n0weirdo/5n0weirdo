@@ -14,7 +14,7 @@
 ⚡️ Fun facts...
 <br>
 <span style="padding-left:5%">* I use Linux on a daily basis.</span><br>
-<span style="padding-left:5%">* I enjoy 3D Animation and Blockchain Development.</span><br>
+<span style="padding-left:5%">* I enjoy Web Development and Blockchain Development.</span><br>
 <span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
 <br>
 
