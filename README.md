@@ -13,9 +13,14 @@
 # About Me
 ⚡️ Fun facts...
 <br>
-<span style="padding-left:5%">* I use Linux on a daily basis.</span><br>
-<span style="padding-left:5%">* I enjoy Web Development and Blockchain Development.</span><br>
-<span style="padding-left:5%">* I like strategic and adventurous pc games.</span><br>
+- :date: I've been coding for 2 years.
+- :trophy: I started building tech that would help people in their daily lives.
+- 🖥️: I love using Software to solve every `Problem`.
+- :computer: I am always up for a challenge since I've been exposed to different kinds of field in the `tech` space. 
+- 📚: I’m currently learning `Next.js` and `TailwindCSS`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `opportunity`.
+- :boom: You can visit [my portfolio](https://snoweirdo.vercel.app).
 <br>
 
 <!-- 
