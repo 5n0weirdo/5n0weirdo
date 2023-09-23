@@ -78,8 +78,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=5n0weirdo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 🏆
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=true)
@@ -126,7 +125,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=5n0weirdo&theme=tokyonight_duo" alt="5n0weirdo" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=5n0weirdo&theme=radical&hide_border=true)
 
 </details>
 
@@ -146,7 +145,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5n0weirdo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="5n0weirdo" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=5n0weirdo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 [![@5n0weirdo's Holopin board](https://holopin.io/api/user/board?user=5n0weirdo)](https://holopin.io/5n0weirdo)
 	
