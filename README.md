@@ -11,8 +11,7 @@
 </div>
 
 # About Me
-⚡️ Fun facts...
-<br>
+
 - :date: I've been coding for 2 years.
 - :trophy: I started building tech that would help people in their daily lives.
 - 🖥️: I love using Software to solve every `Problem`.
