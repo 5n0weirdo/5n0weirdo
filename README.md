@@ -18,7 +18,7 @@
 - :computer: I am always up for a challenge since I've been exposed to different kinds of `tech` in this space. 
 - 📚: I’m currently learning `Next.js` and `TailwindCSS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `opportunities`.
+- :thinking: I’m currently open to new `job opportunities` and `collaboration `.
 - :boom: You can visit [my portfolio](https://snoweirdo.vercel.app).
 <br>
 
