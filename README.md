@@ -13,12 +13,12 @@
 # About Me
 
 - :date: I've been coding for 2 years.
-- :trophy: I started building tech that would help people in their daily lives.
-- 🖥️: I love using Software to solve every `Problem`.
-- :computer: I am always up for a challenge since I've been exposed to different kinds of field in the `tech` space. 
+- :trophy: I started building tech that would help people in a greater way. 
+- 🖥️: I like using software to solve every `problem` I struggle with.
+- :computer: I am always up for a challenge since I've been exposed to different kinds of `tech` in this space. 
 - 📚: I’m currently learning `Next.js` and `TailwindCSS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `opportunity`.
+- :thinking: I’m currently open for a new `opportunities`.
 - :boom: You can visit [my portfolio](https://snoweirdo.vercel.app).
 <br>
 
