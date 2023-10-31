@@ -1,5 +1,4 @@
 <p align='center'>
-
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=35&duration=3000&color=C016D2&center=true&vCenter=true&lines=Blockchain+Developer;Graphic+Designer;Linux+user" />
@@ -14,12 +13,10 @@
 
 - :date: I've been coding for 2 years.
 - :trophy: I started building tech that would help people in a greater way. 
-- 🖥️: I like using software to solve every `problem` I struggle with.
-- :computer: I am always up for a challenge since I've been exposed to different kinds of `tech` in this space. 
+- 🖥️: I like using software to solve `problems` that I struggle with.
 - 📚: I’m currently learning `Next.js` and `TailwindCSS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open to new `job opportunities` and `collaboration `.
-- :boom: You can visit [my portfolio](https://snoweirdo.vercel.app).
+- :thinking: I’m currently open to new `opportunities` and `collaboration `.
 <br>
 
 <!-- 
@@ -70,22 +67,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=5n0weirdo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=5n0weirdo&icon=0&color=12)](https://visitcount.itsvg.in)
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <br>
-
-</p>
-<!-- <p align="center">
-  <a href="https://raw.githubusercontent.com">
-    <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  </a>
-</p> -->
-
-
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
@@ -99,14 +81,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=5n0weirdo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</details>
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=5n0weirdo&theme=radical&hide_border=true)
 
 </details>
 
@@ -201,9 +175,4 @@
   </p>
 </div>
 </details>
-
-
-<details><summary><h3>💰 You can support me here:</h3></summary>  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/snoweirdo) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/snoweirdo) </details>
-
 
