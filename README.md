@@ -100,8 +100,6 @@
 ----
 	
 ![](https://github-profile-trophy.vercel.app/?username=5n0weirdo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-[![@5n0weirdo's Holopin board](https://holopin.io/api/user/board?user=5n0weirdo)](https://holopin.io/5n0weirdo)
 	
 </details>
 	
